@@ -6,4 +6,4 @@ Crack btc private key. Just for fun.
  - go build
 
 ## Licence
-GNU GENERAL PUBLIC LICENSE Version 3
+MIT License - see LICENSE for more details
