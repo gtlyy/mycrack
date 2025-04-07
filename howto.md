@@ -6,7 +6,7 @@ go mod init
 ```
 
 ## 1. 获取库代码
-go get github.com/gtlyy/mycoin@0.0.2
+go get github.com/gtlyy/mycoin@v0.0.2
 
 ## 2. 检查模块路径一致性
 go list -m all | grep mycoin
